@@ -1,3 +1,6 @@
+# Sylvia Schlotterbeck - 7/26/25 - CPT 127
+# "Analyzing Electric Car Sales Using Pandas"
+
 import pandas as pd
 
 # 1. Read the CSV file EcarSalesByCountryAndYear.csv into a DataFrame,
