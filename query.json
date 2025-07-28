@@ -1,0 +1,5075 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.4083362432356, 45.1582614096712
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Woodland Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.2059614250335, 44.3869602249395
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Abbe Museum Research Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.9984657687536, 46.675046854558
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Aroostook Medical Center - TAMC's Health Sciences Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.5828118263816, 44.4163959496546
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bagaduce Music Lending Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.777619821106, 44.7881247135969
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bangor Daily News Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2519288956871, 43.6586575520821
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bernstein Shur Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.6422121367394, 43.8431516633121
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bigelow Laboratory and Maine Department of Marine Resources"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7147712101778, 44.0460819833671
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bridgton Hospital - Skillin Health Science Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.0077175988157, 46.8797391381976
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Cary Medical Center - Community Health Resource Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.214662717346, 44.1014117502337
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Central Maine Medical Center - Gerrish-True Health Sciences Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.0926794631855, 45.0922524429704
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Charleston Correctional Center Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.7414899966691, 44.8179592887584
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Dorothea Dix Psychiatric Center - Behavioral Health Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5501389447072, 43.3374960729611
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Dorothy Fish Coastal Resource Library, Wells Reserve"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.7498674116701, 44.8089201831553
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Eastern Maine Medical Center - Hadley Parrot Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.1632440148278, 44.6263185753278
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Franklin Memorial Hospital - Ben Franklin Center Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2726890378111, 43.6627623467611
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Osher Map Library Smith Center for Cartographic Education"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.8441276652186, 46.1336751873725
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Houlton Regional Hospital Medical Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.6616370659216, 44.5417867695853
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Inland Hospital Medical Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2755168807814, 43.6528020376461
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Maine Medical Center Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.768203127724, 44.313094155495
+        ]
+      }, 
+      "properties" : {
+        "Name" : "MaineGeneral Medical Center Augusta Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.6467308367053, 44.5653340447159
+        ]
+      }, 
+      "properties" : {
+        "Name" : "MaineGeneral Medical Center Waterville - Health Sciences Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2645823630159, 43.6513301834892
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Mercy Hospital - Health Sciences Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.8904614260423, 43.906038692352
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Mid Coast Hospital - Health Sciences Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.5303887162753, 44.0261108707021
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Miles Memorial Hospital Medical Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.085094948934, 44.1439872941325
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Penobscot Bay Medical Center - Niles Perkins Health Science Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7133089753641, 44.7588346325732
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Redington Fairview General Hospital-Health Science Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5561906443266, 44.551355143435
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Rumford Hospital-Health Science Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.4904500332807, 43.4777342991305
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Southern Maine Medical Center-Health Sciences Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.7726701527365, 44.814193067298
+        ]
+      }, 
+      "properties" : {
+        "Name" : "St Joseph Hospital-Health Science Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.1996523219467, 44.1016781573356
+        ]
+      }, 
+      "properties" : {
+        "Name" : "St Mary's Regional Medical Center-Health Sciences Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5322864811748, 44.2098879199012
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Stephens Memorial Hospital-Health Sciences Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.9943220383032, 44.412790643143
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Waldo County General Hospital-Marx Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.6518136081645, 43.1423724539498
+        ]
+      }, 
+      "properties" : {
+        "Name" : "York Hospital-Health Sciences Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7558748801137, 43.8023326540461
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Georgetown Historical Society Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.1975613369208, 44.3636278610028
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Jackson Laboratory-Joan Staats Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7044259265912, 44.0544793483889
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Lakes Environmental Association Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7774985895337, 44.3074961639158
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Maine Department of Transportation Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2603446066197, 43.6571050306482
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Maine Historical Society-Brown Research Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.8159408623147, 43.8938977744391
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Maine Maritime Museum Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7996030803383, 44.346818379659
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Maine Office of Substance Abuse-Information & Resource Center"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7905465355596, 44.3097714001002
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Maine State Law & Legislative Reference Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.2305760608221, 44.064598440311
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Maine State Prison Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7298016271322, 44.7635266551937
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Margaret Chase Smith Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.9687969062855, 43.9377667701202
+        ]
+      }, 
+      "properties" : {
+        "Name" : "McTeague Higbee Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2542077689015, 43.6593069066976
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Nathan & Henry B. Cleaves Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.7954011344443, 44.5722636365946
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Northeast Historic Film Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.1011413891766, 44.0662420674123
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Owls Head Transportation Museum-Lang Education Center & Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.9249106600521, 44.4601814912351
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Penobscot Marine Museum-Stephen Phillips Research Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2548437488924, 43.6542115205128
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Pierce Atwood Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2626111074929, 43.6538719727197
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Portland Museum of Art Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2573066460952, 43.6575229379461
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Preti Flaherty Beliveau & Pachios"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3460539259825, 43.685214266981
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Sappi Fine Paper - Technology Center Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3658516685306, 43.9868242694623
+        ]
+      }, 
+      "properties" : {
+        "Name" : "United Society of Shakers Sabbathday Lake Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.0193332779856, 46.8595757006705
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Aroostook County Law Library - Caribou"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7774262733047, 44.3147400477229
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Kennebec County Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5184341141707, 44.2211961765002
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Oxford County Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.7688237540516, 44.8002173361529
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Penobscot County Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.2243423764377, 45.1831117227071
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Piscataquis County Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.8207206997739, 43.9116337475595
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Sagadahoc County Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.0082141501643, 44.4262704836737
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Waldo County Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7148214822065, 43.4744734502805
+        ]
+      }, 
+      "properties" : {
+        "Name" : "York County Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.2212202991209, 44.3952085755129
+        ]
+      }, 
+      "properties" : {
+        "Name" : "College of the Atlantic Thorndike Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.7431459579766, 44.8269405599625
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Eastern Maine Community College Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.7922056748534, 44.8273935483121
+        ]
+      }, 
+      "properties" : {
+        "Name" : "W. Tom and Bonnie Sawyer Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2140937716871, 44.0910034834916
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Kaplan University Lewiston Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3241434394338, 43.6388346426878
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Kaplan University S. Portland Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.6103369808136, 44.5960217203286
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Lunder Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2609702279843, 43.6558924428921
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Joanne Waxman Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.8043002060473, 44.389212454225
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Maine Maritime Academy Nutting Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2517974305844, 43.6241186103825
+        ]
+      }, 
+      "properties" : {
+        "Name" : "New England Bible College Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.0341797893568, 46.69413886176
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Northern Maine Community College Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.4837450800132, 43.8254900821872
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Saint Josephs College - Wellehan Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2290989381232, 43.6467147959425
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Southern Maine Community College Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.6630544067713, 44.5243534255869
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Thomas College Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.8003779226947, 44.8073257802229
+        ]
+      }, 
+      "properties" : {
+        "Name" : "University of Maine Augusta - Nottage Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7952028634723, 44.3413174838379
+        ]
+      }, 
+      "properties" : {
+        "Name" : "University of Maine Augusta - Katz Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.1470776298126, 44.6678914265784
+        ]
+      }, 
+      "properties" : {
+        "Name" : "University of Maine Farmington Mantor Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.5893350501641, 47.2504163604829
+        ]
+      }, 
+      "properties" : {
+        "Name" : "University of Maine Fort Kent Blake Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.4579871482034, 44.7088930417749
+        ]
+      }, 
+      "properties" : {
+        "Name" : "University of Maine Machias Merrill Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.0165566332287, 46.6708235700595
+        ]
+      }, 
+      "properties" : {
+        "Name" : "University of Maine Presque Isle Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2961462278115, 43.6836337420243
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Josephine S. Abplanalp Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3882027421159, 43.4588480802727
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Jack S Ketchum Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2723353556025, 43.6625962262682
+        ]
+      }, 
+      "properties" : {
+        "Name" : "University of Southern Maine Glickman Family Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.1729575960437, 44.0766335664082
+        ]
+      }, 
+      "properties" : {
+        "Name" : "University of Southern Maine Lewiston-Auburn Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.2433394820185, 45.1655196786879
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Washington County Community College Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5905841646669, 43.3067702430574
+        ]
+      }, 
+      "properties" : {
+        "Name" : "York County Community College Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.5612830209366, 44.7624105837662
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Canaan Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.4255659902221, 44.5420234927684
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Ellsworth Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.2248031338127, 44.5304529965725
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Frenchman's Bay Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7915137833015, 44.285935394836
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Hubbard Free Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.9346591498731, 44.8698285445839
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Levant Heritage Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.9402520965872, 47.1601974466229
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Abel J Morneault Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.9486176226309, 43.9241134532608
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Topsham Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7729567370537, 43.4364136917263
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Louis B Goodall Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.0340239904039, 44.2411005342322
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Cumston Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.6797920087059, 44.2240942535438
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Chase Emerson Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.61635681733, 44.3036218093621
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Sedgwick Library Association"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.2425556358169, 44.1205473999637
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Warren Free Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5377500498639, 43.3877701204972
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Kennebunk Free Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7900407484968, 44.4043010967263
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bethel Library Association"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.9861001567489, 45.2536031750153
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Milo Free Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.4221177610032, 44.69984500372
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Weld Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.5899848870282, 44.4119265318896
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Blue Hill Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.8809774075106, 44.53910636908
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Milbridge Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.3833375350777, 44.7819879045431
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Pittsfield Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.3236371158991, 47.3553246133192
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Madawaska Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.3900810017859, 44.7380225485599
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Florence Sturdivant Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7097382820809, 44.0542223845845
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bridgton Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.6388963712573, 43.8546918003246
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Spaulding Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.1123580640046, 44.1053669711014
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Rockland Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.6430595728228, 44.9646066425571
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Rangeley Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7987044838827, 44.7126860354471
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Norridgewock Free Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7206090469432, 44.7661219138467
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Skowhegan Pubilc Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.468551837099, 43.9017507911483
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Raymond Village Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.2888004888078, 44.2934622420295
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Somesville Library Association"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7246624942051, 44.1067488986153
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bridge Academy Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.0262693333254, 44.4088079756232
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Dorcas Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7179580587672, 44.7671012114483
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Somerset County Court House Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.3071341127462, 44.3923315226037
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Ivan O Davis-Liberty Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2788406678742, 43.6611348225616
+        ]
+      }, 
+      "properties" : {
+        "Name" : "University of Maine School of Law Garbrecht Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.9758980351249, 43.7613463807912
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Orr`s Island Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.8666298796188, 45.6580524631524
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Danforth Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.4962115412052, 44.13256010653
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Freeland Holmes Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.648201139482, 44.9354542993063
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Old Town Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.7718711966185, 44.8044052966776
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bangor Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.7111028698104, 45.6563390753934
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Millinocket Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.1574688760908, 44.2645986228138
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Hope Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3768600756445, 43.5156660612085
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Libby Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.8796783348908, 44.796731611163
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Madison Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.5695114399306, 44.2663550933651
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Friend Memorial Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.8338237172844, 46.7722159747356
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Fort Fairfield Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.8232758406191, 44.7536149732761
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Edythe L Dyer Community Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.8476611156375, 44.6348124100035
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Winterport Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -66.9836323312892, 44.8605305886941
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Lubec Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7974181599456, 43.8821020950647
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Soldiers Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.3335350170483, 43.9842631777731
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Friendship Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.3638737959245, 44.273464076552
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Gibbs Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.2716637784772, 44.2125032115147
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Vose Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.8687320993141, 46.5132774280814
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Walter T A Hansen Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.4749743277963, 43.3620245159294
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Louis T Graves Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.7983381955057, 44.3899742767026
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Witherle Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.608439228623, 44.4481952527245
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Vassalboro Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.5168858151522, 44.4812364702697
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Albert Church Brown Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.5305600558685, 44.032492975682
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Skidompha Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.6069680881733, 43.9699842949249
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Naples Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5693341433679, 43.7986544101464
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Richville Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5549684292084, 43.5963913746047
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Salmon Falls Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.1426601769023, 44.1892292352447
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Julia Adams Morse Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.9012737488825, 44.3031424133464
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Alice L Pendleton Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.9673798753363, 44.3882342411888
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Readfield Community Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.5224281682831, 44.4174200459566
+        ]
+      }, 
+      "properties" : {
+        "Name" : "East Blue Hill Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.1079346791684, 43.7399769981228
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Chebeague Island Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.2657298926326, 44.2492448021986
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Great Cranberry Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.4121495039335, 44.1711203123975
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Swans Island Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.8927940369677, 43.7910706806585
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Cundys Harbor Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.259321333284, 43.6579582148832
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Portland Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.2893409305686, 45.0244706320094
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Abbot Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2675133366441, 43.6505624966855
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Reiche Branch Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2298846559512, 43.5957019666054
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Thomas Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.6701221756909, 44.8814735403999
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Orono Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.4475311025347, 45.9972315776682
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Veterans Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.1907943524764, 44.474313735247
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Treat Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3905028224164, 44.1105951508233
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Mechanic Falls Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.797640342855, 43.1282529573943
+        ]
+      }, 
+      "properties" : {
+        "Name" : "William Fogg Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.4597324413071, 44.7154571985773
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Porter Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.4100230871017, 44.2005492199169
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Hupper Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5390853843919, 44.2124451380801
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Norway Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5140349351638, 44.2234851276981
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Paris Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.1481975451145, 44.6694006152879
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Farmington Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.2625851021559, 44.9209415319986
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Stewart Free Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.574034321216, 45.2236392733255
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Princeton Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.1568763000826, 44.9577718685638
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Webster Free  Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2207954052422, 44.806536367127
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Strong Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.4372113259223, 45.1398581855235
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Stratton Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2622170181105, 45.6390778654755
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Jackman Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.0518442490255, 44.7967333971328
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Simpson Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.1570802371966, 46.7901523217385
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Washburn Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5955273294935, 43.6001027193796
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Hollis Center Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.0880340412412, 44.390928044414
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Winter Harbor Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2483157436718, 43.6353868050229
+        ]
+      }, 
+      "properties" : {
+        "Name" : "South Portland Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.5911148255841, 45.4596068336446
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Shaw Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.3264089013137, 44.2800299544666
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Southwest Harbor Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.2393239362368, 44.297457355516
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Seal Harbor Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.8136027140704, 43.8198282393502
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Albert F Totman Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.8140785878282, 44.0897684209778
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Isaac F Umberhine Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.9729451423185, 44.3080265936037
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Charles M Bailey Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.3636543030377, 44.1164756494081
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Frenchboro Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.4255891906457, 44.5433874389908
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Hancock County Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.0174291440383, 44.6137363808537
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Monroe Community Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.9614315492132, 44.5108054227449
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Henry D Moore Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7493701881601, 43.8034111521106
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Laura E Richards Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.4993321574723, 45.2858599980014
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Monson Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.0225270978343, 45.0008938647951
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Atkins Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.229078798384, 44.0979646793698
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Auburn Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.124576639196, 44.0521078144028
+        ]
+      }, 
+      "properties" : {
+        "Name" : "South Thomaston Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7916278999718, 43.6913834856573
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Limerick Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.6764132246295, 43.5714322414072
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Waterboro Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5413319264355, 44.5562657927332
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Mexico Free Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5494905796812, 44.5468535339897
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Rumford Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.9822081004658, 44.015160863527
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Fryeburg Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.8152065529922, 44.7273721399279
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Orrington Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2304293456737, 44.5877436818181
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Wilton Free Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.560447934212, 43.8701778381462
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Rutherford Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.2767200886855, 45.189456234827
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Calais Free Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5226574014789, 44.0033779642281
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Casco Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.8371014612314, 46.1254444894184
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Cary Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5834243051363, 43.3184397075603
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Wells Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.250495230411, 44.384258413297
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Livermore Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.8402452295666, 46.1245198534956
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Aroostook County Law Library - Houlton"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2562370729066, 43.6589067085092
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Cumberland County Cleaves Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.3563398356285, 44.2418573227644
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bass Harbor Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.5739402993199, 43.9400172463883
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Darling Marine Center Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.9357997658953, 44.6781560269889
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Shaw Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.924392078166, 44.6002988895366
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Cherryfield Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.3826846822052, 45.1703192919
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Guilford Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.873392315714, 44.1277957018283
+        ]
+      }, 
+      "properties" : {
+        "Name" : "North Haven Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.8154154974939, 43.9154746513712
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Patten Free Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2162370055414, 44.0954065514814
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Lewiston Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5027756573767, 44.2599894685466
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Hamlin Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.8086613236234, 43.2349678364465
+        ]
+      }, 
+      "properties" : {
+        "Name" : "South Berwick Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7433407245294, 43.0864462110883
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Rice Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.221666738838, 45.1825401886928
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Thompson Free Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.5751426876467, 45.6256745367626
+        ]
+      }, 
+      "properties" : {
+        "Name" : "East Millinocket Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.037092228507, 44.4071282472157
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Underwood Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7145801773648, 43.4760303715217
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Parsons Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.798606553963, 43.4669055867608
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Springvale Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.6679709798981, 44.0033716428206
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Wiscasset Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.8477748772406, 44.916589280413
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Glenburn Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.5030880688319, 44.6389038151633
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Brown Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.8915804304262, 44.1270278360196
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Charlotte Hobbs Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7966697786721, 43.9709371510434
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Denmark Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.9066386562792, 43.9384576440531
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Brownfield Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.3737283494831, 44.096762032345
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Waldoboro Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.0704013945236, 44.1880768791919
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Rockport Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7504839959986, 44.6322123492124
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Andover Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.6565087310331, 43.7894060078677
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Southport Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2362094930469, 43.7232835616036
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Falmouth Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.8118793956329, 44.6189534224838
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Gallison Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.197888739968, 44.3591901174776
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Searsmont Town Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.5050691746874, 43.9045895812507
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bristol Area Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5428091191438, 43.6124802364766
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Berry Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.9094162834688, 43.5323004218303
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Acton Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.8253743279556, 46.909678220085
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Robert A Frost Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -66.9852064027633, 44.9037050860024
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Peavey Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.065869895084, 44.3471540988513
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Cary Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.2066276145957, 44.3868526874519
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Jessup Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.6116244642047, 44.5431654091127
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Winslow Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.1519914375798, 44.6716596005649
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Franklin County Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.033127398511, 45.306716223585
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Brownville Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.6796455395807, 44.1097814395415
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Harrison Village  Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7160359199314, 44.180073837655
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Waterford  Library Association"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.7496633690346, 44.3635722740033
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Brooksville Free Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.4147326023131, 44.0369868199165
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bremen Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7709057095745, 44.2287642257415
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Gardiner Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.6503800111562, 43.7923414488828
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Steep Falls Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2375355801113, 44.5480823035017
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Jay-Niles Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.2513445400802, 44.0204946364084
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Cushing Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.987491750892, 44.5013651454644
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Dr Shaw Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2268300538662, 44.098036079945
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Androscoggin County Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3151990866484, 45.0791432303638
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Carrabassett Valley Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.2352893937985, 44.2625086914299
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Islesford Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.3211788130018, 43.7614203124984
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Monhegan Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.4257407647711, 43.7267907850067
+        ]
+      }, 
+      "properties" : {
+        "Name" : "South Windham Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.1984727580525, 43.6583419914283
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Portland Public Library - Peaks Island Branch"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3636127445436, 43.6760134852879
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Walker Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.5982727712664, 44.5877981983594
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Lawrence Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.2695803363558, 46.0091355080043
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Katahdin Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.699092629728, 44.0996155403577
+        ]
+      }, 
+      "properties" : {
+        "Name" : "North Bridgton Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.5236970333698, 44.7213350351682
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Whitneyville Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.4489893106877, 43.6805716289369
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Gorham Campus Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.3529427553886, 45.5178665783171
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Mattawamkeag Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.6491153907209, 43.1438621647807
+        ]
+      }, 
+      "properties" : {
+        "Name" : "York Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.3850585684604, 45.872540768273
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Sherman Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.9672662240834, 43.9136553579822
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Curtis Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.1017248273177, 43.8632598521166
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Freeport Community Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.0138180678909, 46.6808835834937
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Mark & Emily Turner Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.1369900850051, 44.8931193499616
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Stetson Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.0646024798028, 44.2115610968777
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Camden Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.6283188920254, 43.8517023938527
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Boothbay Harbor Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.8600597847797, 43.2773793078912
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Berwick Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.2895771135753, 44.790237904661
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Anna Field Fernald Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3442079396368, 44.823907331839
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Phillips Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.0051024449069, 44.4252508408048
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Belfast Free Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3273362942969, 43.8844686783706
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Gray Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2826828845543, 43.9642888575609
+        ]
+      }, 
+      "properties" : {
+        "Name" : "New Gloucester Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7097441381826, 43.7314300225822
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Davis Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7823163844176, 44.3059762412602
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Maine State Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2239971379107, 44.2704467834204
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Turner Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.5066463124961, 45.3630216167549
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Lincoln Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.0602019062754, 43.9977302238527
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Lisbon Library Department"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3093144022518, 43.6977936521045
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Portland Public Library - Riverton Branch"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.4389454589155, 43.3722457011404
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Cape Porpoise Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.4346739473975, 45.1320693196222
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Harvey Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.6686494269353, 44.0034063264063
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Lincoln County Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.4556864301905, 43.7986460356867
+        ]
+      }, 
+      "properties" : {
+        "Name" : "North Gorham Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.6692530401441, 44.8993804147209
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Raymond H. Fogler Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.852805191582, 43.6490212068294
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Newfield Village Library-Reading Room"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.0572525054008, 44.0804746948471
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Owls Head Village Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.2741897823336, 44.8355016085234
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Newport Cultural Center"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3451387079593, 44.2066219824922
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Moody Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.858639381384, 44.9485854766079
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Coolidge Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.4557857453641, 44.5311776596103
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Ludden Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.6696974416238, 44.3006598650347
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Sargeantville Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.6775046432106, 43.8023110336037
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Brown Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.4418345023068, 43.6771957701567
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Baxter Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.0110445874187, 46.8607309109247
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Caribou Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5735279454431, 44.3251305239043
+        ]
+      }, 
+      "properties" : {
+        "Name" : "West Paris Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.02354773585, 44.6409689007463
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Jim Ditzler Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.1227590741603, 44.8053116526174
+        ]
+      }, 
+      "properties" : {
+        "Name" : "New Vineyard Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.9085803208902, 43.403208891968
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Martha Sawyer Community Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.4519411599979, 44.883592592871
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Hartland Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3645417400679, 44.2891448016629
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Zadoc Long Free Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.7919963279477, 44.5716169566874
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Buck Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.4116493250961, 43.7906396955573
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Windham Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.8313424329667, 44.0484783969232
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Vinalhaven Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.5944445039534, 47.2508095341282
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Fort Kent Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7776841496141, 44.3154910566992
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Lithgow Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.6319870688278, 44.5512802084802
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Waterville Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.922589527383, 44.4605757356191
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Carver Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5966649222603, 43.2439311067025
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Ogunquit Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3065275132209, 43.6263739469143
+        ]
+      }, 
+      "properties" : {
+        "Name" : "South Portland Public Library Memorial Branch"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3371514911955, 43.5991570916132
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Scarborough Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.4580458723706, 43.4944577087496
+        ]
+      }, 
+      "properties" : {
+        "Name" : "McArthur Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.2912359502475, 44.2942129874972
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Northeast Harbor Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.7195209974631, 44.5462546202663
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Oakland Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2947992867587, 43.6713477269528
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Portland Public Library - Burbank Branch"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5960860993964, 44.1157773908666
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bolsters Mills Village Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.4886421960455, 44.3095194351223
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Somerville Town Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.9360730059251, 45.0665212320714
+        ]
+      }, 
+      "properties" : {
+        "Name" : "John B Curtis Free Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.6346813487711, 44.0751580200613
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Revere Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.6048822660003, 44.5314933662155
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Peabody Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.3580152920532, 45.1654248343449
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Sangerville Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.4420186639244, 43.5014184550278
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Dyer Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.8996685052534, 44.0092542645922
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bowdoinham Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.212195334808, 43.965870874903
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Jackson Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7394147994103, 43.3084514476243
+        ]
+      }, 
+      "properties" : {
+        "Name" : "D A Hurd Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.4402818486355, 44.5322192111806
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Albion Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.8776568272301, 44.5192188495367
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Belgrade Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.1058750822124, 43.6980734972716
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Cliff Island Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.567184811459, 45.2486882744387
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Cole Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5841364506936, 43.5074307461846
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Community Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.330501241877, 44.6037702643553
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Dorothy W Quimby Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.0429631502972, 47.0834278068907
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Faye O'Leary Hafford Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.2295581539544, 44.9042099675559
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Lincoln Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.1615242323422, 43.684276494952
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Long Island Community Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.3130520257053, 47.2423179718128
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Long Lake Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.2102047766791, 44.6578103630115
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Louise Clements Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.7442533176839, 44.6190096160205
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Mayhew Library Association"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.2475216991818, 44.2887765414769
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Mildred Stevens Williams Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3856407623553, 43.5002999621114
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Ocean Park Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.4263268432242, 44.6737756169979
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Otis Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.1670322644994, 44.9511538710008
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Pembroke Library Association"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.8558149438531, 44.4897641143773
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Stockton Springs Community Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.8741264939379, 44.6087324264632
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Waldo Peirce Reading Room and Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.7920887450129, 44.8272333843868
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bangor Theological Seminary - Moulton Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.265470804103, 43.6525279958187
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bangor Theological Seminary - Portland"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2035748226866, 44.1052273726001
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bates College - Ladd Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.7858941556985, 44.7863278696416
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Beal College Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.9639639703469, 43.9071591822874
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bowdoin College - Hawthorne Longfellow Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.6608267316578, 44.5643831688898
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Colby College Olin Science Center Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.6612645418138, 44.5650515856602
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Colby College-Bixler Art & Music Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.6631670376562, 44.5641348641472
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Colby College Miller Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2347314395275, 44.134775740317
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Central Maine Community College Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.0290636616513, 44.9002376407495
+        ]
+      }, 
+      "properties" : {
+        "Name" : "New Portland Community Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.8729989494653, 44.2438060456777
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Lewis Dana Hill Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.4001873454934, 44.3799243931953
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Palermo Community Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.6632951023489, 44.1562809992136
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Stonington Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.6005172635639, 43.6655737684807
+        ]
+      }, 
+      "properties" : {
+        "Name" : "West Buxton Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.1119870281542, 44.1039217060565
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Knox County Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.4558580367489, 44.7171667325799
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Washington County Law Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.8479886995305, 43.5409703612409
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Shapleigh Community Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.5731321935988, 44.3956255383563
+        ]
+      }, 
+      "properties" : {
+        "Name" : "South China Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.7673581585137, 44.7926223240101
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Brewer Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.1757172671054, 44.0796379913973
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Thomaston Public LIbrary"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.9323819871208, 44.919264326537
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Case Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.8832087848945, 45.0562504589049
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bingham Union Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.6572265959479, 45.2410888691197
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Thomas Free Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.643928400264, 44.3792683068657
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Whitman Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.8855235975754, 43.8063707451159
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Kezar Falls Circulating Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.9003698017726, 44.8555783152567
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Stewart Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -69.040083328454, 45.0864825036125
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Charleston Public Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.394986282607, 44.0616266410012
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Ricker Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.1871333443797, 43.8012365616037
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Merrill Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.2588186771272, 43.7921427175624
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Prince Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7996472353987, 43.8049365813342
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Bonney Memorial Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.4008499624763, 46.6307441762987
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Ashland Community Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -68.9797561783517, 44.7291943435633
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Newburgh Community Library"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -67.9344124315887, 44.4624560165926
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Eagle Hill Athenaeum"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.3186687807232, 43.6076292353835
+        ]
+      }, 
+      "properties" : {
+        "Name" : "Foundation for Blood Research"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.5170444518489, 44.2190213816994
+        ]
+      }, 
+      "properties" : {
+        "Name" : "McLaughlin Garden - Horticulture Library"
+      }
+    }
+  ]
+}
