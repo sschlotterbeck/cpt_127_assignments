@@ -1,3 +1,19 @@
+"""
+I wrote this program to generate a list of random fake e-mail addresses for practicing parsing webpages. 
+I was working my way through chapter 8 of Bradford Tuckfield's excellent "Dive Into Data Science" book-- 
+(No Starch Press, 2023), when I came across a couple of broken hyperlinks, the second of which was intended
+to link to a page where there was a list of email addresses to practice using regular expression searches on,
+so I ended up writing a little program that pulls names and domains from csv files and generates random e-mail
+addresses. I generated the csv files with words and phrases from my own brain, stream-of-conscious-style.
+
+The program uses the random library to generate random integers and then uses those random integers to call the index
+locations of several lists of words in order to generate the list. The program prompts the user to enter the number
+of addresses they would like to generate.
+
+Note: If you modify or add to the files opened in this program, you can change what words the program uses to generate
+the e-mail addresses.
+"""
+
 import random
 
 names_obj = open('names.csv', 'r')
