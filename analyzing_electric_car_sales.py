@@ -1,4 +1,4 @@
-# Sylvia Schlotterbeck - 7/26/25 - CPT 127
+# Sylvia Schlotterbeck - 7/6/25 - CPT 127
 # "Analyzing Electric Car Sales Using Pandas"
 
 import pandas as pd
@@ -55,6 +55,8 @@ print(e_cars_df)
 Continents = ['North Am.', 'Asia', 'Europe', 'Europe', 'Asia', 'Europe', 'Europe', 'Europe', 'Europe', 'North Am.']
 dfContinents = pd.DataFrame(Continents)
 dfContinents.columns = ['Continent']
-print(dfContinents)
-e_cars_df = e_cars_df.join(dfContinents)
-print(e_cars_df)
+dfContinents = dfContinents.set_index(e_cars_df.index)
+e_cars_df['Continent'] = dfContinents['Continent']
+grouped_totals_df = e_cars_df.groupby('Continent').sum()
+del grouped_totals_df['Growth']
+print(grouped_totals_df)
