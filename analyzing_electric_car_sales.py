@@ -1,4 +1,4 @@
-# Sylvia Schlotterbeck - 7/26/25 - CPT 127
+# Sylvia Schlotterbeck - 7/6/25 - CPT 127
 # "Analyzing Electric Car Sales Using Pandas"
 
 import pandas as pd
